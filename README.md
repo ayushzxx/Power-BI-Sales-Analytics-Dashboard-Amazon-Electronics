@@ -115,13 +115,13 @@ Data cleaning and transformation were performed using **Power Query**, including
 Example:
 
 ```
-images/dashboard.png
+Dashboard (2).png
 ```
 
 Then display it using:
 
 ```markdown
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Dashboard (2).png)
 ```
 
 ---
