@@ -123,7 +123,7 @@ Then display it using:
 ```markdown
 ![Dashboard Preview](Dashboard (2).png)
 ```
-
+![Dashboard Preview](Dashboard (2).png)
 ---
 
 ## 🚀 Skills Demonstrated
