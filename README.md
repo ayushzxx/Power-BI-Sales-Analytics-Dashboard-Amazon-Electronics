@@ -110,7 +110,7 @@ Data cleaning and transformation were performed using **Power Query**, including
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
+![Dashboard](Dashboard(2).png)
 
 Example:
 
@@ -123,7 +123,7 @@ Then display it using:
 ```markdown
 ![Dashboard Preview](Dashboard (2).png)
 ```
-![Dashboard Preview](Dashboard (2).png)
+
 ---
 
 ## 🚀 Skills Demonstrated
