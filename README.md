@@ -110,18 +110,18 @@ Data cleaning and transformation were performed using **Power Query**, including
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard(2).png)
+![Dashboard](Dashboard.png)
 
 Example:
 
 ```
-Dashboard (2).png
+Dashboard.png
 ```
 
 Then display it using:
 
 ```markdown
-![Dashboard Preview](Dashboard (2).png)
+![Dashboard](Dashboard.png)
 ```
 
 ---
